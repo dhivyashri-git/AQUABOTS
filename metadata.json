@@ -1,0 +1,6 @@
+{
+  "name": "CityHealth FlowSense",
+  "description": "Chennai Smart Drainage Command Center - Intelligent IoT and AI-powered urban drainage monitoring, automatic waste removal, citizen reporting, and ML-based risk prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
